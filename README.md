@@ -62,6 +62,9 @@ Ruby
 
 ### Key Features <a name="key-features"></a>
 
+- Decodes a morse character a word and a sentence
+- Returns the decoded message in uppercase
+- Returns the decoded message with spaces between words and characters
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -133,7 +136,9 @@ decode("-- -.--   -. .- -- .")
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
+- Add support for numbers and punctuation marks
+- Add support for international characters
+- Add support for prosigns
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
