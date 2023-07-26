@@ -184,7 +184,7 @@ Check out the Ruby documentation and tutorials at https://www.ruby-lang.org/en/d
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/mailsg/Morse-Code/blob/dev/LICENSE) licensed.
+This project is [MIT](https://github.com/mailsg/Morse-Code/blob/morse-code/LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
